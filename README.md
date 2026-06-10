@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eoxkxid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/eoxkxid/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/eoxkxid/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/eoxkxid/leetcode/tree/master/0283-move-zeroes) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
@@ -15,6 +16,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eoxkxid/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/eoxkxid/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/eoxkxid/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/eoxkxid/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/eoxkxid/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/eoxkxid/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
