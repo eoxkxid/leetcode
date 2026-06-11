@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/eoxkxid/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/eoxkxid/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/eoxkxid/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/eoxkxid/leetcode/tree/master/0283-move-zeroes) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/eoxkxid/leetcode/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/eoxkxid/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
