@@ -6,6 +6,7 @@
 | [0014-longest-common-prefix](https://github.com/eoxkxid/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eoxkxid/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eoxkxid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eoxkxid/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/eoxkxid/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/eoxkxid/leetcode/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eoxkxid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eoxkxid/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/eoxkxid/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/eoxkxid/leetcode/tree/master/0392-is-subsequence) |
 ## String
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/eoxkxid/leetcode/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eoxkxid/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
