@@ -5,6 +5,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/eoxkxid/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eoxkxid/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eoxkxid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eoxkxid/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/eoxkxid/leetcode/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/eoxkxid/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -38,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -54,6 +57,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/eoxkxid/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/eoxkxid/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
