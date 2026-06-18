@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/eoxkxid/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
@@ -62,6 +63,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/eoxkxid/leetcode/tree/master/0392-is-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Trie
 |  |
 | ------- |
@@ -79,10 +81,12 @@
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 ## Math
 |  |
