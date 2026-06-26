@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/eoxkxid/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/eoxkxid/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/eoxkxid/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/eoxkxid/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/eoxkxid/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
@@ -39,6 +40,7 @@
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/eoxkxid/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0525-contiguous-array](https://github.com/eoxkxid/leetcode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/eoxkxid/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/eoxkxid/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/eoxkxid/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/eoxkxid/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/eoxkxid/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
