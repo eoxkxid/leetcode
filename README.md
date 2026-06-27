@@ -40,6 +40,7 @@
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/eoxkxid/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/eoxkxid/leetcode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/eoxkxid/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/eoxkxid/leetcode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Trie
 |  |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/eoxkxid/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Union-Find
 |  |
 | ------- |
