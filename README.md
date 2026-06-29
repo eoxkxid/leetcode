@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/eoxkxid/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/eoxkxid/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/eoxkxid/leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/eoxkxid/leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0525-contiguous-array](https://github.com/eoxkxid/leetcode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/eoxkxid/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/eoxkxid/leetcode/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
@@ -77,6 +79,7 @@
 | [0392-is-subsequence](https://github.com/eoxkxid/leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/eoxkxid/leetcode/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/eoxkxid/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/eoxkxid/leetcode/tree/master/0567-permutation-in-string) |
 ## Union-Find
 |  |
 | ------- |
