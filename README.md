@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/eoxkxid/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/eoxkxid/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/eoxkxid/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eoxkxid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eoxkxid/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/eoxkxid/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eoxkxid/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/eoxkxid/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/eoxkxid/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/eoxkxid/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eoxkxid/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/eoxkxid/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
