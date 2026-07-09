@@ -1,6 +1,3 @@
-from typing import Optional
-
-
 # LeetCode에서 제공하는 노드 정의
 # class ListNode:
 #     def __init__(self, x):
@@ -9,12 +6,7 @@ from typing import Optional
 
 
 class Solution:
-    def getIntersectionNode(
-        self,
-        headA: ListNode,
-        headB: ListNode
-    ) -> Optional[ListNode]:
-
+    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
         pointer_a = headA
         pointer_b = headB
 
