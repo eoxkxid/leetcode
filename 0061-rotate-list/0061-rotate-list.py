@@ -29,7 +29,7 @@ class Solution:
         tail.next = head
 
         # 4. 새로운 꼬리를 찾는다
-        # 새로운 꼬리의 인덱스는 length - k - 1이다
+        # 새로운 꼬리의 인덱스는 length - k - 1
         new_tail = head
 
         for _ in range(length - k - 1):
