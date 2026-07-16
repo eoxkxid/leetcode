@@ -10,7 +10,7 @@ class Solution:
         current = dummy
 
         carry = 0
-
+        
         # 두 리스트 또는 자리올림 중 하나라도 남아 있으면 계속 계산
         while l1 or l2 or carry:
             value1 = l1.val if l1 else 0
@@ -25,12 +25,12 @@ class Solution:
             current.next = ListNode(digit)
             current = current.next
 
-            # 해당 리스트에 다음 노드가 있을 때만 이동
+            # 현재 노드가 존재하면 다음 노드로 이동
             if l1:
                 l1 = l1.next
 
             if l2:
                 l2 = l2.next
-
+            
         # dummy 자체는 실제 결과가 아니므로 dummy.next 반환
-        return dummy.next        
+        return dummy.next
