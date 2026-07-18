@@ -4,11 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverseList(
-        self,
-        head: Optional[ListNode]
-    ) -> Optional[ListNode]:
-
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         previous = None
         current = head
 
@@ -22,7 +18,6 @@ class Solution:
             # 두 포인터를 한 칸씩 앞으로 이동
             previous = current
             current = next_node
-
+    
         # 반복 종료 후 previous가 새로운 head
         return previous
-        
