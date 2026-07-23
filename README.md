@@ -124,6 +124,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/eoxkxid/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/eoxkxid/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
@@ -185,4 +186,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/eoxkxid/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
