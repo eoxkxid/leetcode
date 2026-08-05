@@ -26,6 +26,7 @@
 | [0525-contiguous-array](https://github.com/eoxkxid/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/eoxkxid/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/eoxkxid/leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,8 +191,10 @@
 | [0020-valid-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/eoxkxid/leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/eoxkxid/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/eoxkxid/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/eoxkxid/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/eoxkxid/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
