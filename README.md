@@ -25,6 +25,7 @@
 | [0303-range-sum-query-immutable](https://github.com/eoxkxid/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/eoxkxid/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/eoxkxid/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/eoxkxid/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/eoxkxid/leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/eoxkxid/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/eoxkxid/leetcode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/eoxkxid/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
@@ -73,10 +75,12 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/eoxkxid/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/eoxkxid/leetcode/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/eoxkxid/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,10 +105,12 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/eoxkxid/leetcode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/eoxkxid/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/eoxkxid/leetcode/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/eoxkxid/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -197,4 +203,12 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/eoxkxid/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/eoxkxid/leetcode/tree/master/0739-daily-temperatures) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/eoxkxid/leetcode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/eoxkxid/leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
