@@ -102,6 +102,7 @@
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/eoxkxid/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/eoxkxid/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/eoxkxid/leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/eoxkxid/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/eoxkxid/leetcode/tree/master/0567-permutation-in-string) |
@@ -193,12 +194,14 @@
 | [0021-merge-two-sorted-lists](https://github.com/eoxkxid/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/eoxkxid/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/eoxkxid/leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/eoxkxid/leetcode/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/eoxkxid/leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/eoxkxid/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/eoxkxid/leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/eoxkxid/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
