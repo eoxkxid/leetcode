@@ -1,35 +1,47 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        def decode(index: int) -> tuple[str, int]:
-            result = []
-            repeat = 0
+        index = 0
 
-            while index < len(s):
-                char = s[index]
+        def decode() -> str:
+            nonlocal index
 
-                # 여러 자리 반복 횟수 처리
-                if char.isdigit():
-                    repeat = repeat * 10 + int(char)
+            decoded_parts = []
 
-                # 대괄호 내부를 재귀적으로 디코딩
-                elif char == "[":
-                    decoded_part, index = decode(index + 1)
+            # 현재 깊이의 문자열을 해석한다.
+            # ']'를 만나면 현재 재귀 호출의 작업이 끝난다.
+            while index < len(s) and s[index] != "]":
 
-                    result.append(decoded_part * repeat)
-                    repeat = 0
+                # 일반 알파벳은 결과에 그대로 추가한다.
+                if s[index].isalpha():
+                    decoded_parts.append(s[index])
+                    index += 1
 
-                # 현재 재귀 단계 종료
-                elif char == "]":
-                    return "".join(result), index
-
-                # 일반 알파벳
+                # 숫자가 나오면 반드시 k[encoded_string] 구조가 시작된다.
                 else:
-                    result.append(char)
+                    repeat_count = 0
 
-                index += 1
+                    # 반복횟수는 여라 자리일 수 있다.
+                    while index < len(s) and s[index].isdigit():
+                        repeat_count = (
+                            repeat_count * 10 + int(s[index])
+                        )
+                        index += 1
 
-            # 가장 바깥 함수는 ']'를 만나지 않고 문자열 끝에서 종료
-            return "".join(result), index
+                    # 현재 위치는 '['이므로 건너뛴다.
+                    index += 1
 
-        decoded_string, _ = decode(0)
-        return decoded_string
+                    # '[' 안쪽 문자열을 재귀적으로 해석한다.
+                    nested_string = decode()
+
+                    # 재귀 함수가 종료되었을 때 현재 위치는 ']'다.
+                    # ']'를 건너뛰고 다음 문자로 이동한다.
+                    index += 1
+
+                    # 내부 문자열을 repeat_count번 반복한다.
+                    decoded_parts.append(
+                        nested_string * repeat_count
+                    )
+
+            return "".join(decoded_parts)
+
+        return decode()
