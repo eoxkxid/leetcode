@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # 빈 리스트 또는 노드가 하나뿐이면 이미 정렬돈 상태다.
+        # 빈 리스트 또는 노드가 하나뿐이면 이미 정렬된 상태다.
         if head is None or head.next is None:
             return head
 
