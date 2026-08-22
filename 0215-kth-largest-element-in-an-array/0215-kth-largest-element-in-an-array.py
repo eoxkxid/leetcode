@@ -1,6 +1,7 @@
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         # 오름차순으로 정렬했을 때 찾아야 하는 인덱스
+        # 오름차순으로 정렬했을 때 찾아야 하는 인덱스
         target_index = len(nums) - k
 
         left = 0
@@ -52,6 +53,3 @@ class Solution:
             # target이 pivot과 같은 값들의 영역에 있는 경우
             else:
                 return nums[target_index]
-
-        # 문제 조건상 항상 k번째 원소가 존재하므로 실행되지 않는다.
-        raise ValueError("Invalid input")
