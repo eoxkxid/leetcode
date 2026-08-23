@@ -22,10 +22,7 @@ class Solution:
 
             while current <= greater:
                 if nums[current] < pivot:
-                    nums[less], nums[current] = (
-                        nums[current],
-                        nums[less],
-                    )
+                    nums[less], nums[current] = nums[current], nums[less]
                     less += 1
                     current += 1
 
