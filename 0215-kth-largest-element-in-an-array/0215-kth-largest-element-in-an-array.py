@@ -27,12 +27,8 @@ class Solution:
                     current += 1
 
                 elif nums[current] > pivot:
-                    nums[current], nums[greater] = (
-                        nums[greater],
-                        nums[current],
-                    )
+                    nums[current], nums[greater] = nums[greater], nums[current]
                     greater -= 1
-
                     # 뒤에서 가져온 값은 아직 확인하지 않았으므로
                     # current는 증가시키지 않는다.
 
