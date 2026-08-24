@@ -9,7 +9,7 @@ class Solution:
 
         while left <= right:
             # 특정 입력에서 최악의 경우가 반복되는 것을 줄이기 위해
-            # 현재 탐색 범위에서 피벗을 무작위로 선택한다.
+            # 현재 탐색 범위에서 피벗을 무작위로 선택한다
             pivot = nums[random.randint(left, right)]
 
             # 분할 후 만들어질 영역
@@ -30,7 +30,7 @@ class Solution:
                     nums[current], nums[greater] = nums[greater], nums[current]
                     greater -= 1
                     # 뒤에서 가져온 값은 아직 확인하지 않았으므로
-                    # current는 증가시키지 않는다.
+                    # current는 증가시키지 않는다
 
                 else:
                     current += 1
