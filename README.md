@@ -33,6 +33,7 @@
 | [0692-top-k-frequent-words](https://github.com/eoxkxid/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/eoxkxid/leetcode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/eoxkxid/leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/eoxkxid/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eoxkxid/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/eoxkxid/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eoxkxid/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/eoxkxid/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
