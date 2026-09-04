@@ -13,7 +13,7 @@ class Solution:
                 total_hours += (pile + speed - 1) // speed
 
             if total_hours <= h:
-                # speed는 가능하지만 최소 속도인지 모르므로
+                # speed는 가능하지만 최소 속도인지 모르므로 
                 # speed도 후보에 남겨둔 채 왼쪽을 탐색한다.
                 right = speed
             else:
