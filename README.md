@@ -99,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/eoxkxid/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eoxkxid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eoxkxid/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -111,6 +112,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/eoxkxid/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/eoxkxid/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/eoxkxid/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -268,4 +270,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/eoxkxid/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
