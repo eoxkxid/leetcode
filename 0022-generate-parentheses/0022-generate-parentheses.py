@@ -13,13 +13,13 @@ class Solution:
             if open_count < n:
                 current.append("(")
                 backtrack(open_count + 1, close_count)
-                current.pop()  # 선택 되돌리기
+                current.pop() # 선택 되돌리기
 
             # 닫는 괄호는 사용한 여는 괄호보다 적을 때만 추가 가능
             if close_count < open_count:
                 current.append(")")
                 backtrack(open_count, close_count + 1)
-                current.pop()  # 선택 되돌리기
+                current.pop() # 선택 되돌리기
 
         backtrack(0, 0)
 
