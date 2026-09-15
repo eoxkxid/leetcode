@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eoxkxid/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/eoxkxid/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eoxkxid/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/eoxkxid/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/eoxkxid/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/eoxkxid/leetcode/tree/master/0053-maximum-subarray) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/eoxkxid/leetcode/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
