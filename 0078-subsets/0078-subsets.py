@@ -1,7 +1,7 @@
 class Solution:
     def subsets(self, nums: list[int]) -> list[list[int]]:
         result = []
-        path =[]
+        path = []
 
         def backtrack(start):
             # 현재 path 자체가 하나의 부분집합
