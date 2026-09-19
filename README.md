@@ -105,6 +105,7 @@
 | [0053-maximum-subarray](https://github.com/eoxkxid/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eoxkxid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eoxkxid/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/eoxkxid/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/eoxkxid/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/eoxkxid/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/eoxkxid/leetcode/tree/master/0392-is-subsequence) |
@@ -117,6 +118,7 @@
 | [0022-generate-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/eoxkxid/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/eoxkxid/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/eoxkxid/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/eoxkxid/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/eoxkxid/leetcode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/eoxkxid/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -279,6 +281,7 @@
 | [0022-generate-parentheses](https://github.com/eoxkxid/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/eoxkxid/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/eoxkxid/leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/eoxkxid/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
